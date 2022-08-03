@@ -1,0 +1,3 @@
+https://juejin.cn/post/7062178363800027173
+
+总的来说，requestAnimationFrame可以让我们可以跟着浏览器的刷新频率去干相应的事，而不用像setTimeout那样不是非常的准确，而造成页面卡帧。
